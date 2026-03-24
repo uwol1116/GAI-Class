@@ -1,1 +1,1 @@
-# GAI-Class
+# GenAI-Class
